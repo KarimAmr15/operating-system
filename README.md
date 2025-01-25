@@ -1,4 +1,3 @@
-# Operating System Simulation Project
 
 ## Overview
 Developed a simulation project to emulate core functionalities of an operating system, focusing on **process scheduling** and **memory management**. This project demonstrates the principles of multitasking, resource allocation, and efficient execution of processes, providing insights into the inner workings of an OS.
@@ -20,7 +19,7 @@ Developed a simulation project to emulate core functionalities of an operating s
     - Output commands to display results and logs.  
 
 - **Execution Monitoring:**  
-  - Designed a user-friendly console interface to visualize:  
+  - Used a console interface to visualize:  
     - The currently executing process.  
     - Completion status of all processes after each scheduling cycle.  
   - Detailed logs for memory utilization, process execution, and I/O operations.  
@@ -31,18 +30,4 @@ Developed a simulation project to emulate core functionalities of an operating s
 - **Modular Design:** Clean separation of process scheduling and memory management modules for flexibility and scalability.  
 - **Error Handling:** Integrated robust error-handling mechanisms to prevent crashes during invalid file operations or process inputs.  
 
-## Applications
-This project serves as an educational tool to demonstrate the following concepts:
-- Process scheduling strategies in operating systems.  
-- Challenges in memory allocation and fragmentation.  
-- Fundamentals of file I/O operations in OS-level programming.  
 
-## Usage
-1. **Input Files:**  
-   Provide three text files containing program instructions, such as variable operations, arithmetic expressions, and file I/O commands.  
-
-2. **Execution:**  
-   Run the simulation to observe the behavior of processes under different scheduling algorithms.  
-
-3. **Output:**  
-   View the step-by-step execution logs and detailed memory utilization reports.  
